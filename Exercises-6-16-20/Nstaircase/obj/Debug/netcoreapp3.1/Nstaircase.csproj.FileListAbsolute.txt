@@ -1,0 +1,13 @@
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\obj\Debug\netcoreapp3.1\Nstaircase.csprojAssemblyReference.cache
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\obj\Debug\netcoreapp3.1\Nstaircase.AssemblyInfoInputs.cache
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\obj\Debug\netcoreapp3.1\Nstaircase.AssemblyInfo.cs
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\obj\Debug\netcoreapp3.1\Nstaircase.csproj.CoreCompileInputs.cache
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\bin\Debug\netcoreapp3.1\Nstaircase.exe
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\bin\Debug\netcoreapp3.1\Nstaircase.deps.json
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\bin\Debug\netcoreapp3.1\Nstaircase.runtimeconfig.json
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\bin\Debug\netcoreapp3.1\Nstaircase.runtimeconfig.dev.json
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\bin\Debug\netcoreapp3.1\Nstaircase.dll
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\bin\Debug\netcoreapp3.1\Nstaircase.pdb
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\obj\Debug\netcoreapp3.1\Nstaircase.dll
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\obj\Debug\netcoreapp3.1\Nstaircase.pdb
+C:\Users\User\revature\Quentin-Code\6-16-20\Nstaircase\obj\Debug\netcoreapp3.1\Nstaircase.genruntimeconfig.cache
