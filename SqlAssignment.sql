@@ -14,9 +14,9 @@ Create TABLE Customers (
 );
 Create TABLE Orders(
     ID int IDENTITY (1,1),
-    ProductID int Foreign key(ProductID) References([Products][ID]),
-    CustomerID int Foreign key [CustomerID] References([Customers][ID]),
-    Primary Key(ProductID, CustomerID);
+    ProductID int Foreign key(ProductID) References Products,
+    CustomerID int Foreign key(CustomerID) References Customers,
+    Primary Key(ProductID, CustomerID)
 );
 Insert into Customers (Firstname, Lastname, CardNumber)
 Values 
